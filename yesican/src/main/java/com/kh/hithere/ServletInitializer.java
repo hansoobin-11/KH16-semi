@@ -1,4 +1,4 @@
-package com.kh.yesican;
+package com.kh.hithere;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
